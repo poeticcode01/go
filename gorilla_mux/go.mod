@@ -1,4 +1,4 @@
-module github.com/poeticcode01/go
+module github.com/poeticcode01/go/gorill_mux
 
 go 1.21.3
 
